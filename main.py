@@ -58,7 +58,7 @@ if st.session_state.logged_in_user:
     if st.sidebar.button("🚪 Logout"):
         st.session_state.logged_in_user = None
         st.success("✅ Logged out successfully.")
-        st.experimental_rerun()
+        st.rerun()
 
 # --- Home ---
 if choice == "Home":
