@@ -1,6 +1,8 @@
 # 🔐 Secure Data Encryption System
 
 This Streamlit app allows users to **securely store and retrieve sensitive data** using encryption and hashed passkeys. User registration and login are supported with in-memory session storage.
+## Streamlit url
+https://secure-data-encryption-knazb2yvpwwwnam9tdqotd.streamlit.app/
 
 ## 🚀 Features
 
